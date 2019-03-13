@@ -1,1 +1,2 @@
-Este es una linea que se agrega en el archivo NuevoArchivoRama rama hija de master.
+Este es una linea la cual se le vuelve hacer cambio, que se agrega en el archivo NuevoArchivoRama rama hija de master.
+se agrega esta nueva linea para ver como se comporta el merge.
